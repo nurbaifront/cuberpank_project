@@ -15,6 +15,8 @@
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
 }
+
+
 header {
     background-image: url("../img/11.png");
     max-width: 1920px;
@@ -72,7 +74,9 @@ header {
     border-radius: 5px;
     color: black;
     transition: 3s;
-}                                
+}
+
+
 .container-night {
     padding: 70px 320px;
     height: 847px;
@@ -123,6 +127,8 @@ header {
     max-width: 1920px;
     width: 100%;
 }
+
+
 .container-play_win {
     background-color: #000;
     height: 884px;
@@ -282,6 +288,8 @@ header {
     display: flex;
     gap: 35px;
 }
+
+
 .container_total_immersion {
     background-color: #F8F200;
     height: 746px;
@@ -351,6 +359,8 @@ header {
     line-height: 100%;
     color: #F8F200;
 }
+
+
 .container_buy-game {
     max-width: 1920px;
     width: 100%;
@@ -401,6 +411,8 @@ header {
   display: flex;
   gap: 80px;
 }
+
+
 .container_footer {
     padding: 13px 320px;
     max-width: 1920px;
