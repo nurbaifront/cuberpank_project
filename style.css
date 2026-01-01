@@ -42,7 +42,6 @@ header {
     font-weight: 400;
     font-size: 62px;
     line-height: 100%;
-    letter-spacing: 0%;
     padding-bottom: 25px;
 }
 .header_btn {
@@ -55,7 +54,6 @@ header {
     cursor: pointer;
     font-size: 24px;
     line-height: 40px;
-    letter-spacing: 0%;
     text-align: center;
 }
 .header_content {
@@ -275,18 +273,12 @@ header {
     color: #ffffff;
 }
 .ps-xbox-img_block {
-    width: 788px;
+    max-width: 788px;
+    width: 100%;
     position: relative;
-    background-image: url(./img/Group\ 216.png);
+    background-image: url(./img/icon/Group\ 217.svg);
     background-repeat: no-repeat;
     top: 50px;
-}
-.images_block_ps-xbox {
-    position: absolute;
-    right:1px;
-    top: 25px;
-    display: flex;
-    gap: 35px;
 }
 
 
