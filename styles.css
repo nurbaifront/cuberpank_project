@@ -1,4 +1,6 @@
+
 @media screen and (max-width: 1024px) {
+
 header {
     background-image: url("../img/12.png");
     max-width: 1024px;
@@ -27,11 +29,16 @@ header {
     display: flex;
     flex-direction: row;
     gap: 32px;
-    max-width: 460px;
+    max-width: 908px;
+    width: 100%;
+}
+.img_night_city_block {
+    max-width: 440px;
     width: 100%;
 }
 .img_night_city {
-    width: 952px;
+    max-width: 952px;
+    width: 100%;
     height: 424px;
 }
 .container-play_win {
@@ -92,6 +99,13 @@ header {
     position: relative;
     top: 70px;
 }
+.total_immersion_block-text {
+    width: 460px;
+    height: 526px;
+    padding-left: 32px;
+    display: flex;
+    flex-direction: column;
+}
 .immersion_HP {
     padding: 70px 36px;
 }
@@ -139,6 +153,9 @@ footer {
     max-width: 1024px;
     height: 140px;
     align-items: center;
+}
+.project_cuberpank {
+    max-width: 1024px;
 }
 }
 
